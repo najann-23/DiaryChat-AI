@@ -1,0 +1,161 @@
+{
+  "users": {
+    "test_quynh_trang": {
+      "id": 1,
+      "uid": "test_quynh_trang",
+      "email": "test_quynh_trang@diarychat.local",
+      "name": "Quá»³nh Trang",
+      "aiStyle": "companion",
+      "proactivity": "moderate",
+      "useOldMemories": true,
+      "createdAt": "2026-10-27T16:07:04.014Z",
+      "updatedAt": "2026-10-27T16:07:04.014Z"
+    }
+  },
+  "conversations": [
+    {
+      "id": 1793117217965,
+      "userId": "test_quynh_trang",
+      "title": "Trang nhật ký ngày 2026-10-27",
+      "date": "2026-10-27",
+      "summary": "Hôm nay là một ngày đặc biệt với nhiều suy ngẫm và cột mốc đáng nhớ. Những chia sẻ của Quá»³nh Trang (\"Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng c...\") đã được đúc kết và lưu giữ lại trọn vẹn trong cuốn sổ ký ức.",
+      "isCompleted": true,
+      "createdAt": "2026-10-27T16:06:57.965Z",
+      "updatedAt": "2026-10-27T16:12:36.849Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1793117223810,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:07:03.573Z"
+    },
+    {
+      "id": 1793117274740,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:07:53.759Z"
+    },
+    {
+      "id": 1793117303919,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:08:23.783Z"
+    },
+    {
+      "id": 1793117319027,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:08:39.006Z"
+    },
+    {
+      "id": 1793117479838,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:11:19.665Z"
+    },
+    {
+      "id": 1793117511491,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "assistant",
+      "content": "Mình đã lắng nghe và lưu lại câu chuyện của bạn: \"Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần...\". Cảm ơn bạn vì đã mở lòng chia sẻ cùng mình!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:11:51.472Z"
+    },
+    {
+      "id": 1793117525036,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "user",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:12:04.235Z"
+    },
+    {
+      "id": 1793117535545,
+      "conversationId": 1793117217965,
+      "userId": "test_quynh_trang",
+      "role": "assistant",
+      "content": "Mình đã lắng nghe và lưu lại câu chuyện của bạn: \"Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần...\". Cảm ơn bạn vì đã mở lòng chia sẻ cùng mình!",
+      "isSupplement": false,
+      "supplementForDate": null,
+      "createdAt": "2026-10-27T16:12:15.116Z"
+    }
+  ],
+  "memories": [
+    {
+      "id": 1793117535452,
+      "userId": "test_quynh_trang",
+      "type": "plan",
+      "title": "Dự định mới của bạn",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "eventDate": "2026-10-27",
+      "datePrecision": "exact",
+      "certainty": "confirmed",
+      "status": "accepted",
+      "conversationId": 1793117217965,
+      "messageId": 1793117525036,
+      "sourceQuote": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần...",
+      "tags": null,
+      "createdAt": "2026-10-27T16:12:15.117Z",
+      "updatedAt": "2026-10-27T16:12:23.568Z"
+    },
+    {
+      "id": 1793117512295,
+      "userId": "test_quynh_trang",
+      "type": "plan",
+      "title": "Dự định mới của bạn",
+      "content": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "eventDate": "2026-10-27",
+      "datePrecision": "exact",
+      "certainty": "confirmed",
+      "status": "pending",
+      "conversationId": 1793117217965,
+      "messageId": 1793117479838,
+      "sourceQuote": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần...",
+      "tags": null,
+      "createdAt": "2026-10-27T16:11:51.473Z",
+      "updatedAt": "2026-10-27T16:11:51.473Z"
+    }
+  ],
+  "events": [],
+  "plans": [
+    {
+      "id": 1793117543570,
+      "userId": "test_quynh_trang",
+      "memoryId": 1793117535452,
+      "title": "Dự định mới của bạn",
+      "description": "Hôm nay mình vừa vượt qua bài thi lập trình với điểm tối đa và dự định cuối tuần này sẽ đi ăn mừng cùng bạn bè ở Hồ Tây!",
+      "targetDate": "2026-10-27",
+      "status": "pending",
+      "createdAt": "2026-10-27T16:12:23.568Z",
+      "updatedAt": "2026-10-27T16:12:23.568Z"
+    }
+  ],
+  "coreMemories": [],
+  "scrapbooks": []
+}

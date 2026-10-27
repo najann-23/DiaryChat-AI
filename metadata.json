@@ -1,0 +1,6 @@
+{
+  "name": "DiaryChat AI",
+  "description": "Một người bạn đồng hành AI giúp người dùng trò chuyện mỗi ngày, viết nhật ký tự nhiên, lưu giữ ký ức lâu dài và kết nối những câu chuyện trong quá khứ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
